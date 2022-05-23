@@ -1,0 +1,13 @@
+.header {
+    color: aliceblue;
+    margin: .5rem .5rem 1rem .5rem;
+    line-height: 1;
+}
+
+.header h1 {
+    margin-bottom: 0;
+}
+
+.header p {
+    margin: 3px 0 6px 0;
+}

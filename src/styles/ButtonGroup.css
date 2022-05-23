@@ -1,0 +1,27 @@
+.btn-contain {
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  display: block;
+  font: bold 11px;
+  text-decoration: none;
+  padding: 6px 12px 6px 12px;
+  margin: .5rem 1rem;
+  color: black;
+  width: 200px;
+  border-radius: .5rem;
+}
+
+.linkedin {
+  background-color: aqua;
+}
+
+.email {
+  background-color: azure;
+}
+
+/* .btn-contain {
+      
+  } */
